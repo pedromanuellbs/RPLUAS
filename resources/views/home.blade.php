@@ -100,7 +100,7 @@
 
       <!-- Top 10 TV Shows Section -->
       <div>
-        <span class="ml-28 font-inter font-bold text-xl">Top 10 TV Shows</span>
+        <span class="ml-28 font-inter font-bold text-xl">Top 10 Shows TV</span>
 
         <div class="w-auto flex flex-row overflow-x-auto pl-28 pt-6 pb-10">
           @foreach ($topTVShows as $tvShowsItem)

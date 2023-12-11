@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>CINEMATION | Better Movie Better Life</title>
+    <title>SINEMA PINPINCE</title>
     @vite('resources/css/app.css')
   </head>
   <body>

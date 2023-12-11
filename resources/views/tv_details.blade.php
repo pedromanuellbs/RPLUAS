@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>CINEMATION | Better Movie Better Life</title>
+    <title>SINEMA PINPINCE</title>
     @vite('resources/css/app.css')
   </head>
   <body>
@@ -20,7 +20,7 @@
           <a href="/tv-shows" class="uppercase text-base mx-5 text-white hover:text-develobe-500 duration-200 font-inter">TV Shows</a>
         </div>
         <div class="w-1/3 flex items-center justify-center">
-          <a href="/" class="group"><span class="font-bold text-5xl font-quicksand text-white group-hover:text-develobe-500 duration-200">CINEMATION</span></a>
+          <a href="/" class="group"><span class="font-bold text-5xl font-quicksand text-white group-hover:text-develobe-500 duration-200">SINEMA PINPINCE</span></a>
         </div>
         <div class="w-1/3 flex flex-row justify-end pr-10">
           <a href="/search" class="group">

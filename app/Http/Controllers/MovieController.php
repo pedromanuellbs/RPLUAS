@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Http;
 
 class MovieController extends Controller
 {
+  
+    
   public function index(){
     $baseURL = env('MOVIE_DB_BASE_URL');
     $imageBaseURL = env('MOVIE_DB_IMAGE_BASE_URL');
